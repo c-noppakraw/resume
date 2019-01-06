@@ -13,10 +13,42 @@
     padding-bottom: 70px;
 }
 
-.bg-1 {
-    background-color: #c7c7c7;
+.bg-text-fname {
+    padding: 10px;
+    width: 240px;
+    background-color: #e7eee0;
 }
 
-.margin {
+.bg-text-lname {
+    padding: 10px;
+    width: 165px;
+    background-color: #e7eee0;
+}
+
+.bg-1 {
+    background-color: #333333;
+}
+
+.bg-2 {
+    background-color: #f9f9f5;
+}
+
+.marginbot {
     margin-bottom: 45px;
+}
+
+.marginright {
+    margin-right: 80px; 
+}
+
+.marginleft {
+    margin-left: 25px;
+}
+
+body {
+    background-image: url('pic/1366-768-546673.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
 }

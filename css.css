@@ -7,3 +7,16 @@
 .font {
     font-family: 'Kodchasan', sans-serif;
 }
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.bg-1 {
+    background-color: #c7c7c7;
+}
+
+.margin {
+    margin-bottom: 45px;
+}
